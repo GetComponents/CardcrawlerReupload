@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenue.unity
+    guid: 4c6c18fe0a9d65a4eac979e90fce143d
+  - enabled: 1
+    path: Assets/Scenes/Overworld.unity
+    guid: 1a390c51f6bfcff47a5be96941f5a6b9
+  - enabled: 1
+    path: Assets/Scenes/CombatMapSection1.unity
+    guid: 35c0d6f6aca448244ba51167c6ab5228
+  - enabled: 1
+    path: Assets/Scenes/CombatMapSection2.unity
+    guid: 5415553a04b541f40b3ede56eacacef5
+  - enabled: 1
+    path: Assets/Scenes/CombatMapSection3.unity
+    guid: f3bea0ea2fd5d244aa1038dc035a4bed
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: e744a8ab540460d49abe9365a68ec318, type: 2}

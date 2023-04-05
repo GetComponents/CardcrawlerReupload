@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb9f28dd49b46ea41bdec633324935bc, type: 3}
+  m_Name: Handyman
+  m_EditorClassIdentifier: 
+  enemyName: Handyman
+  description: unkown
+  hitPoints: 20
+  attackDamageOne: 1
+  attackDamageTwo: 2
+  attackDamageThree: 3
+  modell: {fileID: 21300000, guid: ea35a033152eb5a468e89ecd536b164b, type: 3}

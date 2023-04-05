@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e798a9c676b1cc44690305a53797feb8, type: 3}
+  m_Name: Encounter Settings
+  m_EditorClassIdentifier: 
+  m_encountersSectionOne:
+  - {fileID: 11400000, guid: 5eac75eb2b8ec2e459dad9e5b2432c63, type: 2}
+  - {fileID: 11400000, guid: fc63e7e4b68a9bf48b2ed91ea8f808ba, type: 2}
+  - {fileID: 11400000, guid: d1d65b6abef6d2647850e01a9e47580f, type: 2}
+  m_encountersSectionTwo:
+  - {fileID: 11400000, guid: 5eac75eb2b8ec2e459dad9e5b2432c63, type: 2}
+  - {fileID: 11400000, guid: fc63e7e4b68a9bf48b2ed91ea8f808ba, type: 2}
+  - {fileID: 11400000, guid: 3c8d36026cbed3a4d97d748869b4be7b, type: 2}
+  m_encountersSectionThree:
+  - {fileID: 11400000, guid: 5eac75eb2b8ec2e459dad9e5b2432c63, type: 2}
+  - {fileID: 11400000, guid: fc63e7e4b68a9bf48b2ed91ea8f808ba, type: 2}
+  - {fileID: 11400000, guid: d1d65b6abef6d2647850e01a9e47580f, type: 2}
